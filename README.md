@@ -10,9 +10,13 @@
 [![@blackstar's Holopin board](https://holopin.me/blackstar)](https://holopin.io/@blackstar)
 
 ---
+<a href="https://www.credly.com/badges/c36ced9e-89c0-45c0-a886-ceb05c67867a/public_url">
+  <img src="starrocks-contributor-2023.png" width="180"></img>
+</a>
 
-<img src="starrocks-contributor-2023.png" width="180"></img>
-<img src="cka-certified-kubernetes-administrator.png" width="180"></img>
+<a href="https://www.credly.com/badges/2e589de8-a582-422c-9eff-a9a22ee55276/public_url">
+  <img src="cka-certified-kubernetes-administrator.png" width="180"></img>
+</a>
 
 <!--
 **blackstar-baba/blackstar-baba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
